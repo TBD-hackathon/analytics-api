@@ -3,7 +3,7 @@
         "title": "Analytics API",
         "description": "Real time data analytics and reporting endpoints",
         "version": "0.0.1",
-        "team": "foo"
+        "team": "frontend-team"
     },
     "apiVersion": "0.0.0",
     "swaggerVersion": "1.2",
